@@ -1,9 +1,9 @@
-import Cube from './cube';
+import Orb from './orb';
 
 export default function Home() {
   return (
     <main>
-      <Cube />
+      <Orb />
     </main>
   );
 }
